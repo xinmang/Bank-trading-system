@@ -1,0 +1,3 @@
+C:\Users\john\Desktop\作业\银行存取款项目\bank\bank\bin\Debug\bank.exe.config
+C:\Users\john\Desktop\作业\银行存取款项目\bank\bank\obj\x86\Debug\bank.exe
+C:\Users\john\Desktop\作业\银行存取款项目\bank\bank\obj\x86\Debug\bank.pdb
